@@ -1,0 +1,63 @@
+export const homeObjOne = {
+    lightBg: false,
+    primary:true,
+    imgSart: 'start',
+    lightTopLine:true,
+    lightTextDec:true,
+    buttonLabel: 'Get Started',
+    description: 'We help businesses owners increase there reveneu. our team of unique specialist can help you achiev your business goald ',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText:true,
+    topline: 'Marketing Agency',
+    img: require('../../asset/svg-1 (1).svg'),
+    alt: 'Image',
+    start: '',
+};
+
+export const homeObjTwo = {
+    lightBg: true,
+    primary: false,
+    imgSart: 'start',
+    lightTopLine:false,
+    lightTextDec:false,
+    buttonLabel: 'Get Started',
+    description: 'We help businesses owners increase there reveneu. our team of unique specialist can help you achiev your business goald ',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText:false,
+    topline: 'Marketing Agency',
+    img: require('../../asset/svg-1 (2).svg'),
+    alt: 'Image',
+    start: 'true',
+};
+
+export const homeObjThree = {
+    lightBg: false,
+    primary:true,
+    imgSart: 'start',
+    lightTopLine:true,
+    lightTextDec:true,
+    buttonLabel: 'Get Started',
+    description: 'We help businesses owners increase there reveneu. our team of unique specialist can help you achiev your business goald ',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText:true,
+    topline: 'Marketing Agency',
+    img: require('../../asset/svg-1 (3).svg'),
+    alt: 'Image',
+    start: '',
+};
+
+export const homeObjFour = {
+    lightBg: false,
+    primary:true,
+    imgSart: 'start',
+    lightTopLine:true,
+    lightTextDec:true,
+    buttonLabel: 'Get Started',
+    description: 'We help businesses owners increase there reveneu. our team of unique specialist can help you achiev your business goald ',
+    headline: 'Lead Generation Specialist for Online Businesses',
+    lightText:true,
+    topline: 'Marketing Agency',
+    img: require('../../asset/svg-1 (4).svg'),
+    alt: 'Image',
+    start: '',
+};
